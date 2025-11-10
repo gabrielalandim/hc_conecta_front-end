@@ -85,7 +85,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 ## 👥 Integrantes
 
 - **Samara Porto Souza**  
-  📌 RM: 559072 – 1TDSA  
+  📌 RM: 559072 – 1TDSR
   🔗 [LinkedIn](https://www.linkedin.com/in/samara-porto-732723325) | 💻 [GitHub](https://github.com/ssamaraps)
 
 - **Eduarda Weiss Ventura**  
