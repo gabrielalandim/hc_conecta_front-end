@@ -89,7 +89,7 @@ Para executar este projeto localmente, siga os passos abaixo:
   🔗 [LinkedIn](https://www.linkedin.com/in/samara-porto-732723325) | 💻 [GitHub](https://github.com/ssamaraps)
 
 - **Eduarda Weiss Ventura**  
-  📌 RM: 564434 – 1TDSPX  
+  📌 RM: 564434 – 1TDSPX 
   🔗 [LinkedIn](https://www.linkedin.com/in/eduarda-weiss-ventura-55bb37268) | 💻 [GitHub](https://github.com/eduardawv)
 
 - **Maria Gabriela Landim Severo**  
