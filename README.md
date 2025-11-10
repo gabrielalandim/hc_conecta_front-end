@@ -70,13 +70,7 @@ Para executar este projeto localmente, siga os passos abaixo:
     npm install
     ```
 
-3.  **Configure as variáveis de ambiente:**
-    Crie um arquivo `.env` na raiz do projeto e adicione a URL da API Java remota:
-    ```
-    VITE_API_URL=[https://url-da-sua-api-java.com](https://url-da-sua-api-java.com)
-    ```
-
-4.  **Inicie o servidor de desenvolvimento:**
+3.  **Inicie o servidor de desenvolvimento:**
     ```bash
     npm run dev
     ```
