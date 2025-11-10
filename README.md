@@ -12,7 +12,7 @@ Este projeto foi desenvolvido como parte da Sprint 04 da disciplina de Front-End
 ## 🔗 Links Essenciais
 
 * **Deploy (Vercel):** https://hc-conecta-front-end.vercel.app/
-* **Vídeo de Apresentação (YouTube):** [https://youtu.be/SEU-LINK-AQUI](https://youtu.be/SEU-LINK-AQUI)
+* **Vídeo de Apresentação (YouTube):** [https://youtu.be/BsRVD2YKIZI?si=GROTcX1eoxl1KEWR]
 * **Repositório (GitHub):** [https://github.com/gabrielalandim/hc_conecta_front-end](https://github.com/gabrielalandim/hc_conecta_front-end)
 
 ---
